@@ -4,9 +4,8 @@
 
 > Build responsive Single Page Apps, **SSR Apps**, PWAs, Hybrid Mobile Apps and Electron Apps, all using the same codebase!, powered with Vue.
 
-<a href="https://badge.fury.io/js/quasar-framework" target="_blank"><img src="https://badge.fury.io/js/quasar-framework.svg"></a>
 [![Join the chat at https://discord.gg/5TDhbDg](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/5TDhbDg)
-<a href="http://forum.quasar-framework.org" target="_blank"><img src="https://img.shields.io/badge/community-forum-brightgreen.svg"></a>
+<a href="https://forum.quasar.dev" target="_blank"><img src="https://img.shields.io/badge/community-forum-brightgreen.svg"></a>
 
 Please submit a PR to https://github.com/quasarframework/quasar-awesome with your website/app/Quasar tutorial/video etc. Thank you!
 
@@ -15,7 +14,7 @@ Quasar Framework is an MIT-licensed open source project. Its ongoing development
 
 ## Documentation
 
-Head on to the Quasar Framework official website: [https://quasar-framework.org](https://quasar-framework.org)
+Head on to the Quasar Framework official website: [https://quasar.dev](https://quasar.dev)
 
 ## Stay in Touch
 
@@ -23,11 +22,11 @@ For latest releases and announcements, follow on Twitter: [@quasarframework](htt
 
 ## Chat Support
 
-Ask questions at the official community Discord server: [http://chat.quasar-framework.org](http://chat.quasar-framework.org)
+Ask questions at the official community Discord server: [https://chat.quasar.dev](https://chat.quasar.dev)
 
 ## Community Forum
 
-Ask questions at the official community forum: [https://forum.quasar-framework.org](https://forum.quasar-framework.org)
+Ask questions at the official community forum: [https://forum.quasar.dev](https://forum.quasar.dev)
 
 ## Contributing
 

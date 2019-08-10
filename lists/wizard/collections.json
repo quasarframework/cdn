@@ -1,0 +1,38 @@
+{
+  "obytePure": [
+    "@quasar/obyte",
+    "@quasar/icon-genie",
+    "@quasar/testing",
+    "@quasar/qenv",
+    "qautomate"
+  ],
+  "protools": [
+    "@quasar/icon-genie",
+    "@quasar/testing",
+    "@quasar/typescript",
+    "@quasar/qenv",
+    "@quasar/feathersjs",
+    "qautomate"
+  ],
+  "adminGui": [
+    "@quasar/icon-genie",
+    "@quasar/qcalendar",
+    "@quasar/qenv",
+    "@quasar/qpdfviewer",
+    "@quasar/qwindow"
+  ],
+  "kitchensink": [
+    "@quasar/icon-genie",
+    "@quasar/qactivity",
+    "@quasar/qmarkdown",
+    "@quasar/qmediaplayer",
+    "@quasar/qverlay",
+    "@quasar/qpdfviewer",
+    "@quasar/qplaceholder",
+    "@quasar/qribbon",
+    "@quasar/qscroller",
+    "@quasar/qwindow",
+    "@quasar/qzoom",
+    "@quasar/testing"
+  ]
+}

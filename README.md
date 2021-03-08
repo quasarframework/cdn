@@ -2,7 +2,7 @@
 
 # Quasar Framework
 
-> Build responsive Single Page Apps, **SSR Apps**, PWAs, Hybrid Mobile Apps and Electron Apps, all using the same codebase!, powered with Vue.
+> Build responsive Single Page Apps, **SSR Apps**, PWAs, Hybrid Mobile Apps, Electron Apps and Browser Extensions, all using the same codebase!, powered with Vue.
 
 [![Join the chat at https://discord.gg/5TDhbDg](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/5TDhbDg)
 <a href="https://forum.quasar.dev" target="_blank"><img src="https://img.shields.io/badge/community-forum-brightgreen.svg"></a>

@@ -1174,6 +1174,11 @@
   ],
   "@quasar/extras": [
     {
+      "version": "1.16.1",
+      "date": "2023-03-27T07:24:54Z",
+      "body": "<h2>Fixes</h2>\n<ul>\n<li>fix(extras): Could not resolve “@quasar/extras/mdi-v7” <a href=\"https://github.com/quasarframework/quasar/issues/15627\" target=\"__blank\" class=\"doc-link\">15627</a></li>\n<li>fix(extras): export definition for material-symbols-rounded</li>\n<li>fix(extras): export definitions for animations <a href=\"https://github.com/quasarframework/quasar/issues/15623\" target=\"__blank\" class=\"doc-link\">15623</a></li>\n</ul>\n<h2>Donations</h2>\n<p>Quasar Framework is an open-source MIT-licensed project made possible due to the <strong>generous contributions</strong> by <a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">sponsors and backers</a>. If you are interested in supporting this project, please consider the following:</p>\n<ul>\n<li><a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">Becoming a sponsor on Github</a></li>\n<li><a href=\"https://paypal.me/rstoenescu1\" target=\"__blank\" class=\"doc-link\">One-off donation via PayPal</a></li>\n</ul>\n"
+    },
+    {
       "version": "1.16.0",
       "date": "2023-03-25T14:54:52Z",
       "body": "<h2>Updates</h2>\n<ul>\n<li>feat(extras): new Ionicons v7 =&gt; v7.1.0</li>\n<li>fix(extras): missing comma in json file (from merged PR)</li>\n<li>feat(extras): updated MDI icons =&gt; v7.2.6</li>\n<li>feat(extras): updated Google Material icons and fonts</li>\n<li>feat(extras): updated Google Material Symbols icons and fonts</li>\n</ul>\n<h2>Donations</h2>\n<p>Quasar Framework is an open-source MIT-licensed project made possible due to the <strong>generous contributions</strong> by <a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">sponsors and backers</a>. If you are interested in supporting this project, please consider the following:</p>\n<ul>\n<li><a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">Becoming a sponsor on Github</a></li>\n<li><a href=\"https://paypal.me/rstoenescu1\" target=\"__blank\" class=\"doc-link\">One-off donation via PayPal</a></li>\n</ul>\n"

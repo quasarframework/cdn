@@ -513,6 +513,11 @@
   ],
   "@quasar/app-vite": [
     {
+      "version": "1.2.2",
+      "date": "2023-04-25T12:29:03Z",
+      "body": "<h2>Fix</h2>\n<ul>\n<li>fix(app-vite): bex build - newer “archiver” starts output before first input is declared - which creates an archive with the archive itself <a href=\"https://github.com/quasarframework/quasar/issues/15749\" target=\"__blank\" class=\"doc-link\">15749</a></li>\n</ul>\n<h2>Donations</h2>\n<p>Quasar Framework is an open-source MIT-licensed project made possible due to the <strong>generous contributions</strong> by <a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">sponsors and backers</a>. If you are interested in supporting this project, please consider the following:</p>\n<ul>\n<li><a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">Becoming a sponsor on Github</a></li>\n<li><a href=\"https://paypal.me/rstoenescu1\" target=\"__blank\" class=\"doc-link\">One-off donation via PayPal</a></li>\n</ul>\n"
+    },
+    {
       "version": "1.2.1",
       "date": "2023-02-28T13:53:28Z",
       "body": "<h2>Fixes</h2>\n<ul>\n<li>fix(app-vite): add screen.bodyClasses to app-vite &amp; app-webpack framework-conf.d.ts (<a href=\"https://github.com/quasarframework/quasar/issues/15458\" target=\"__blank\" class=\"doc-link\">15458</a>)</li>\n</ul>\n<h2>Donations</h2>\n<p>Quasar Framework is an open-source MIT-licensed project made possible due to the <strong>generous contributions</strong> by <a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">sponsors and backers</a>. If you are interested in supporting this project, please consider the following:</p>\n<ul>\n<li><a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">Becoming a sponsor on Github</a></li>\n<li><a href=\"https://paypal.me/rstoenescu1\" target=\"__blank\" class=\"doc-link\">One-off donation via PayPal</a></li>\n</ul>\n"

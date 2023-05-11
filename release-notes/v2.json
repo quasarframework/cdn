@@ -675,6 +675,11 @@
   ],
   "@quasar/app-webpack": [
     {
+      "version": "3.9.1",
+      "date": "2023-05-11T06:56:48Z",
+      "body": "<h2>Changes</h2>\n<ul>\n<li>feat(app-webpack): use Capacitor v5 when adding Capacitor mode</li>\n<li>feat(app-webpack): remove the usage of @quasar/fastclick</li>\n</ul>\n<h2>Donations</h2>\n<p>Quasar Framework is an open-source MIT-licensed project made possible due to the <strong>generous contributions</strong> by <a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">sponsors and backers</a>. If you are interested in supporting this project, please consider the following:</p>\n<ul>\n<li><a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">Becoming a sponsor on Github</a></li>\n<li><a href=\"https://paypal.me/rstoenescu1\" target=\"__blank\" class=\"doc-link\">One-off donation via PayPal</a></li>\n</ul>\n"
+    },
+    {
       "version": "3.9.0",
       "date": "2023-05-08T16:47:40Z",
       "body": "<h2>New</h2>\n<ul>\n<li>feat(app-webpack): Add the official SSL support for dev mode on Capacitor 4 support (<a href=\"https://github.com/quasarframework/quasar/issues/14226\" target=\"__blank\" class=\"doc-link\">14226</a>)</li>\n<li>feat(app-webpack): Spawn a Capacitor v4 project by default in src-capacitor</li>\n<li>feat(app-webpack): upgrade default electron-packager/builder versions when installing them for first time</li>\n</ul>\n<h2>Fixes</h2>\n<ul>\n<li>fix(app-webpack): quirk with electron mode when using NPM <a href=\"https://github.com/quasarframework/quasar/issues/15780\" target=\"__blank\" class=\"doc-link\">15780</a></li>\n</ul>\n<h2>Donations</h2>\n<p>Quasar Framework is an open-source MIT-licensed project made possible due to the <strong>generous contributions</strong> by <a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">sponsors and backers</a>. If you are interested in supporting this project, please consider the following:</p>\n<ul>\n<li><a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">Becoming a sponsor on Github</a></li>\n<li><a href=\"https://paypal.me/rstoenescu1\" target=\"__blank\" class=\"doc-link\">One-off donation via PayPal</a></li>\n</ul>\n"

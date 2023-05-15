@@ -1102,6 +1102,11 @@
   ],
   "@quasar/cli": [
     {
+      "version": "2.2.0",
+      "date": "2023-05-15T17:02:23Z",
+      "body": "<h2>New</h2>\n<ul>\n<li>feat(cli): enhance the list of upcoming supported quasar.config file formats</li>\n<li>feat&amp;perf(cli): upgrade cmd -&gt; faster &amp; more accurate algorithm for determining node package manager to use</li>\n<li>feat(cli): release notes banner URL is more accurate (keeps account of Quasar UI version); show banner if packages were skipped</li>\n<li>feat(cli): “server” cmd -&gt; show all network interface IPs (if not specifying any hostname)</li>\n</ul>\n<h2>Fixes</h2>\n<ul>\n<li>Correctly require minimum Node.js version (16)</li>\n</ul>\n<h2>Donations</h2>\n<p>Quasar Framework is an open-source MIT-licensed project made possible due to the <strong>generous contributions</strong> by <a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">sponsors and backers</a>. If you are interested in supporting this project, please consider the following:</p>\n<ul>\n<li><a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">Becoming a sponsor on Github</a></li>\n<li><a href=\"https://paypal.me/rstoenescu1\" target=\"__blank\" class=\"doc-link\">One-off donation via PayPal</a></li>\n</ul>\n"
+    },
+    {
       "version": "2.1.1",
       "date": "2023-05-09T10:50:21Z",
       "body": "<h2>Fixes</h2>\n<ul>\n<li>fix(cli): glitch in quasar upgrade command when using NPM or PNPM <a href=\"https://github.com/quasarframework/quasar/issues/15804\" target=\"__blank\" class=\"doc-link\">15804</a></li>\n</ul>\n<h2>Donations</h2>\n<p>Quasar Framework is an open-source MIT-licensed project made possible due to the <strong>generous contributions</strong> by <a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">sponsors and backers</a>. If you are interested in supporting this project, please consider the following:</p>\n<ul>\n<li><a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">Becoming a sponsor on Github</a></li>\n<li><a href=\"https://paypal.me/rstoenescu1\" target=\"__blank\" class=\"doc-link\">One-off donation via PayPal</a></li>\n</ul>\n"

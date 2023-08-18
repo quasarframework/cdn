@@ -538,6 +538,16 @@
   ],
   "@quasar/app-vite": [
     {
+      "version": "1.4.5",
+      "date": "2023-08-17T07:18:36Z",
+      "body": "<h2>Fixes</h2>\n<ul>\n<li>fix(app-vite): not connecting correctly to vue devtools server on Windows host <a href=\"https://github.com/quasarframework/quasar/issues/16201\" target=\"__blank\" class=\"doc-link\">16201</a></li>\n</ul>\n<h2>Donations</h2>\n<p>Quasar Framework is an open-source MIT-licensed project made possible due to the <strong>generous contributions</strong> by <a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">sponsors and backers</a>. If you are interested in supporting this project, please consider the following:</p>\n<ul>\n<li><a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">Becoming a sponsor on Github</a></li>\n<li><a href=\"https://paypal.me/rstoenescu1\" target=\"__blank\" class=\"doc-link\">One-off donation via PayPal</a></li>\n</ul>\n"
+    },
+    {
+      "version": "1.4.4",
+      "date": "2023-08-16T14:49:10Z",
+      "body": "<h2>Fixes</h2>\n<ul>\n<li>fix(app-vite): backport vue devtools management logic from q/app-vite’s next major version <a href=\"https://github.com/quasarframework/quasar/issues/16193\" target=\"__blank\" class=\"doc-link\">16193</a></li>\n<li>fix(app-vite): inject QUASAR_PUBLIC_FOLDER to electron-env.d.ts <a href=\"https://github.com/quasarframework/quasar/issues/16191\" target=\"__blank\" class=\"doc-link\">16191</a></li>\n</ul>\n<h2>Donations</h2>\n<p>Quasar Framework is an open-source MIT-licensed project made possible due to the <strong>generous contributions</strong> by <a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">sponsors and backers</a>. If you are interested in supporting this project, please consider the following:</p>\n<ul>\n<li><a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">Becoming a sponsor on Github</a></li>\n<li><a href=\"https://paypal.me/rstoenescu1\" target=\"__blank\" class=\"doc-link\">One-off donation via PayPal</a></li>\n</ul>\n"
+    },
+    {
       "version": "1.4.3",
       "date": "2023-05-11T16:09:57Z",
       "body": "<h2>Changes</h2>\n<ul>\n<li>fix(app-vite): Capacitor ssl-skip uninstall cmd param</li>\n</ul>\n<h2>Donations</h2>\n<p>Quasar Framework is an open-source MIT-licensed project made possible due to the <strong>generous contributions</strong> by <a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">sponsors and backers</a>. If you are interested in supporting this project, please consider the following:</p>\n<ul>\n<li><a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">Becoming a sponsor on Github</a></li>\n<li><a href=\"https://paypal.me/rstoenescu1\" target=\"__blank\" class=\"doc-link\">One-off donation via PayPal</a></li>\n</ul>\n"
@@ -699,6 +709,21 @@
     }
   ],
   "@quasar/app-webpack": [
+    {
+      "version": "3.9.5",
+      "date": "2023-08-17T07:19:29Z",
+      "body": "<h2>Fixes</h2>\n<ul>\n<li>fix(app-webpack): not connecting correctly to vue devtools server on Windows host <a href=\"https://github.com/quasarframework/quasar/issues/16201\" target=\"__blank\" class=\"doc-link\">16201</a></li>\n<li>fix(app-webpack): crash on getting external IP for cordova/capacitor mode</li>\n</ul>\n<h2>Donations</h2>\n<p>Quasar Framework is an open-source MIT-licensed project made possible due to the <strong>generous contributions</strong> by <a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">sponsors and backers</a>. If you are interested in supporting this project, please consider the following:</p>\n<ul>\n<li><a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">Becoming a sponsor on Github</a></li>\n<li><a href=\"https://paypal.me/rstoenescu1\" target=\"__blank\" class=\"doc-link\">One-off donation via PayPal</a></li>\n</ul>\n"
+    },
+    {
+      "version": "3.9.4",
+      "date": "2023-08-16T15:29:44Z",
+      "body": "<h2>Fixes</h2>\n<ul>\n<li>fix(app-webpack): (regression) glitch in devserver address verification</li>\n</ul>\n<h2>Donations</h2>\n<p>Quasar Framework is an open-source MIT-licensed project made possible due to the <strong>generous contributions</strong> by <a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">sponsors and backers</a>. If you are interested in supporting this project, please consider the following:</p>\n<ul>\n<li><a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">Becoming a sponsor on Github</a></li>\n<li><a href=\"https://paypal.me/rstoenescu1\" target=\"__blank\" class=\"doc-link\">One-off donation via PayPal</a></li>\n</ul>\n"
+    },
+    {
+      "version": "3.9.3",
+      "date": "2023-08-16T14:50:03Z",
+      "body": "<h2>Fixes</h2>\n<ul>\n<li>fix(app-webpack): backport vue devtools management logic from q/app-vite’s next major version <a href=\"https://github.com/quasarframework/quasar/issues/16193\" target=\"__blank\" class=\"doc-link\">16193</a></li>\n<li>fix(app-webpack): inject QUASAR_PUBLIC_FOLDER to electron-env.d.ts <a href=\"https://github.com/quasarframework/quasar/issues/16191\" target=\"__blank\" class=\"doc-link\">16191</a></li>\n</ul>\n<h2>Donations</h2>\n<p>Quasar Framework is an open-source MIT-licensed project made possible due to the <strong>generous contributions</strong> by <a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">sponsors and backers</a>. If you are interested in supporting this project, please consider the following:</p>\n<ul>\n<li><a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">Becoming a sponsor on Github</a></li>\n<li><a href=\"https://paypal.me/rstoenescu1\" target=\"__blank\" class=\"doc-link\">One-off donation via PayPal</a></li>\n</ul>\n"
+    },
     {
       "version": "3.9.2",
       "date": "2023-05-11T16:09:57Z",
@@ -1121,6 +1146,11 @@
     }
   ],
   "@quasar/cli": [
+    {
+      "version": "2.2.3",
+      "date": "2023-08-18T11:24:56Z",
+      "body": "<h2>Fixes</h2>\n<ul>\n<li>fix(cli): issue deferring to local CLIs when on Windows host and dealing with next (unreleased) major versions of them</li>\n</ul>\n<h2>Donations</h2>\n<p>Quasar Framework is an open-source MIT-licensed project made possible due to the <strong>generous contributions</strong> by <a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">sponsors and backers</a>. If you are interested in supporting this project, please consider the following:</p>\n<ul>\n<li><a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">Becoming a sponsor on Github</a></li>\n<li><a href=\"https://paypal.me/rstoenescu1\" target=\"__blank\" class=\"doc-link\">One-off donation via PayPal</a></li>\n</ul>\n"
+    },
     {
       "version": "2.2.2",
       "date": "2023-08-07T08:49:34Z",

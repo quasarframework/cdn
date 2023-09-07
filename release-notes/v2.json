@@ -740,6 +740,11 @@
   ],
   "@quasar/app-webpack": [
     {
+      "version": "3.10.1",
+      "date": "2023-09-07T11:32:47Z",
+      "body": "<h2>Changes</h2>\n<ul>\n<li>fix(app-webpack): AE - try to load dist/<script> before src/<script></li>\n</ul>\n<h2>Donations</h2>\n<p>Quasar Framework is an open-source MIT-licensed project made possible due to the <strong>generous contributions</strong> by <a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">sponsors and backers</a>. If you are interested in supporting this project, please consider the following:</p>\n<ul>\n<li><a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">Becoming a sponsor on Github</a></li>\n<li><a href=\"https://paypal.me/rstoenescu1\" target=\"__blank\" class=\"doc-link\">One-off donation via PayPal</a></li>\n</ul>\n"
+    },
+    {
       "version": "3.10.0",
       "date": "2023-09-02T12:39:52Z",
       "body": "<h2>New</h2>\n<ul>\n<li>feat(app-webpack): (backport from next major version) support for AEs in ESM format</li>\n<li>feat(app-webpack): capacitor -&gt; remove obsolete bundledWebRuntime config</li>\n</ul>\n<h2>Donations</h2>\n<p>Quasar Framework is an open-source MIT-licensed project made possible due to the <strong>generous contributions</strong> by <a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">sponsors and backers</a>. If you are interested in supporting this project, please consider the following:</p>\n<ul>\n<li><a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">Becoming a sponsor on Github</a></li>\n<li><a href=\"https://paypal.me/rstoenescu1\" target=\"__blank\" class=\"doc-link\">One-off donation via PayPal</a></li>\n</ul>\n"

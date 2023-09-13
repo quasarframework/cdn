@@ -1,6 +1,11 @@
 {
   "quasar": [
     {
+      "version": "2.12.7",
+      "date": "2023-09-13T11:51:10Z",
+      "body": "<h2>Fixes</h2>\n<ul>\n<li>fix(QSlider): wrong ticks when inner-min is equal to inner-max <a href=\"https://github.com/quasarframework/quasar/issues/16323\" target=\"__blank\" class=\"doc-link\">16323</a></li>\n<li>fix(QTree): Custom body slot is not hidden when using no-transition prop <a href=\"https://github.com/quasarframework/quasar/issues/16318\" target=\"__blank\" class=\"doc-link\">16318</a></li>\n</ul>\n<h2>Donations</h2>\n<p>Quasar Framework is an open-source MIT-licensed project made possible due to the <strong>generous contributions</strong> by <a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">sponsors and backers</a>. If you are interested in supporting this project, please consider the following:</p>\n<ul>\n<li><a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">Becoming a sponsor on Github</a></li>\n<li><a href=\"https://paypal.me/rstoenescu1\" target=\"__blank\" class=\"doc-link\">One-off donation via PayPal</a></li>\n</ul>\n"
+    },
+    {
       "version": "2.12.6",
       "date": "2023-09-02T12:40:55Z",
       "body": "<h2>Fixes</h2>\n<ul>\n<li>fix(ui): add ref property to QTable virtual-scroll event type (fix: <a href=\"https://github.com/quasarframework/quasar/issues/16246\" target=\"__blank\" class=\"doc-link\">16246</a>) (<a href=\"https://github.com/quasarframework/quasar/issues/16251\" target=\"__blank\" class=\"doc-link\">16251</a>)</li>\n</ul>\n<h2>Donations</h2>\n<p>Quasar Framework is an open-source MIT-licensed project made possible due to the <strong>generous contributions</strong> by <a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">sponsors and backers</a>. If you are interested in supporting this project, please consider the following:</p>\n<ul>\n<li><a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">Becoming a sponsor on Github</a></li>\n<li><a href=\"https://paypal.me/rstoenescu1\" target=\"__blank\" class=\"doc-link\">One-off donation via PayPal</a></li>\n</ul>\n"

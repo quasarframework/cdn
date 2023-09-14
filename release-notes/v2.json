@@ -553,6 +553,11 @@
   ],
   "@quasar/app-vite": [
     {
+      "version": "1.6.1",
+      "date": "2023-09-14T12:00:46Z",
+      "body": "<h2>New</h2>\n<ul>\n<li>feat(app-vite): (backport from next major version of q/app-vite) use workbox v7 by default when spawning src-pwa folder</li>\n</ul>\n<h2>Donations</h2>\n<p>Quasar Framework is an open-source MIT-licensed project made possible due to the <strong>generous contributions</strong> by <a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">sponsors and backers</a>. If you are interested in supporting this project, please consider the following:</p>\n<ul>\n<li><a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">Becoming a sponsor on Github</a></li>\n<li><a href=\"https://paypal.me/rstoenescu1\" target=\"__blank\" class=\"doc-link\">One-off donation via PayPal</a></li>\n</ul>\n"
+    },
+    {
       "version": "1.6.0",
       "date": "2023-09-13T11:47:11Z",
       "body": "<h2>New</h2>\n<ul>\n<li>feat(app-vite): (backport from next major q/app-vite version) Support for Bun as package manager <a href=\"https://github.com/quasarframework/quasar/issues/16335\" target=\"__blank\" class=\"doc-link\">16335</a></li>\n<li>feat(app-vite): Backport more AE features from the next major version of q/app-vite (Prompts API; enhance the base API for all scripts)</li>\n<li>feat(app-vite): (backport from next major q/app-vite version) quasar.config &gt; build &gt; htmlMinifyOptions (so html-minifier options can be tweaked) <a href=\"https://github.com/quasarframework/quasar/issues/7442\" target=\"__blank\" class=\"doc-link\">7442</a></li>\n<li>feat(app-vite): enhance AE management; more fallbacks</li>\n</ul>\n<h2>Donations</h2>\n<p>Quasar Framework is an open-source MIT-licensed project made possible due to the <strong>generous contributions</strong> by <a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">sponsors and backers</a>. If you are interested in supporting this project, please consider the following:</p>\n<ul>\n<li><a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">Becoming a sponsor on Github</a></li>\n<li><a href=\"https://paypal.me/rstoenescu1\" target=\"__blank\" class=\"doc-link\">One-off donation via PayPal</a></li>\n</ul>\n"
@@ -749,6 +754,11 @@
     }
   ],
   "@quasar/app-webpack": [
+    {
+      "version": "3.11.1",
+      "date": "2023-09-14T12:00:46Z",
+      "body": "<h2>New</h2>\n<ul>\n<li>feat(app-webpack): (backport from next major version of q/app-webpack) use workbox v7 by default when spawning src-pwa folder</li>\n</ul>\n<h2>Donations</h2>\n<p>Quasar Framework is an open-source MIT-licensed project made possible due to the <strong>generous contributions</strong> by <a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">sponsors and backers</a>. If you are interested in supporting this project, please consider the following:</p>\n<ul>\n<li><a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">Becoming a sponsor on Github</a></li>\n<li><a href=\"https://paypal.me/rstoenescu1\" target=\"__blank\" class=\"doc-link\">One-off donation via PayPal</a></li>\n</ul>\n"
+    },
     {
       "version": "3.11.0",
       "date": "2023-09-13T11:48:44Z",

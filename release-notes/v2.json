@@ -1409,6 +1409,11 @@
   ],
   "@quasar/extras": [
     {
+      "version": "1.16.8",
+      "date": "2023-11-09T13:35:05Z",
+      "body": "<h2>Changes</h2>\n<ul>\n<li>feat(extras): update all fonts &amp; fix the outdated css files <a href=\"https://github.com/quasarframework/quasar/issues/16543\" target=\"__blank\" class=\"doc-link\">16543</a></li>\n<li>feat(extras): update Google Material Symbols (font &amp; SVG) to the latest</li>\n</ul>\n<h2>Donations</h2>\n<p>Quasar Framework is an open-source MIT-licensed project made possible due to the <strong>generous contributions</strong> by <a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">sponsors and backers</a>. If you are interested in supporting this project, please consider the following:</p>\n<ul>\n<li><a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">Becoming a sponsor on Github</a></li>\n<li><a href=\"https://paypal.me/rstoenescu1\" target=\"__blank\" class=\"doc-link\">One-off donation via PayPal</a></li>\n</ul>\n"
+    },
+    {
       "version": "1.16.6",
       "date": "2023-08-28T20:27:37Z",
       "body": "<h2>Changes</h2>\n<ul>\n<li>feat(extras): update Fontawesome =&gt; v6.4.2 (new Twitter logo)</li>\n<li>feat(extras): update Google Material Symbols icons and fonts to the latest</li>\n</ul>\n<h2>Donations</h2>\n<p>Quasar Framework is an open-source MIT-licensed project made possible due to the <strong>generous contributions</strong> by <a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">sponsors and backers</a>. If you are interested in supporting this project, please consider the following:</p>\n<ul>\n<li><a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">Becoming a sponsor on Github</a></li>\n<li><a href=\"https://paypal.me/rstoenescu1\" target=\"__blank\" class=\"doc-link\">One-off donation via PayPal</a></li>\n</ul>\n"

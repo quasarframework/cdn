@@ -573,6 +573,11 @@
   ],
   "@quasar/app-vite": [
     {
+      "version": "1.7.1",
+      "date": "2023-12-04T10:56:46Z",
+      "body": "<h2>Changes</h2>\n<ul>\n<li>feat(app-vite): force the use of latest quasar/render-ssr-error</li>\n<li>fix(app-vite): typo in --skip-pkg option <a href=\"https://github.com/quasarframework/quasar/issues/16604\" target=\"__blank\" class=\"doc-link\">16604</a></li>\n</ul>\n<h2>Donations</h2>\n<p>Quasar Framework is an open-source MIT-licensed project made possible due to the <strong>generous contributions</strong> by <a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">sponsors and backers</a>. If you are interested in supporting this project, please consider the following:</p>\n<ul>\n<li><a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">Becoming a sponsor on Github</a></li>\n<li><a href=\"https://paypal.me/rstoenescu1\" target=\"__blank\" class=\"doc-link\">One-off donation via PayPal</a></li>\n</ul>\n"
+    },
+    {
       "version": "1.7.0",
       "date": "2023-11-10T13:24:30Z",
       "body": "<h2>Changes</h2>\n<ul>\n<li><strong>Upgraded to latest Sass v1</strong> – this will allow you to use latest Sass v1 features</li>\n</ul>\n<h2>Minimum requirements</h2>\n<p>You will need to upgrade the “quasar” package (our UI) to at least v2.14.0</p>\n<h2>Donations</h2>\n<p>Quasar Framework is an open-source MIT-licensed project made possible due to the <strong>generous contributions</strong> by <a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">sponsors and backers</a>. If you are interested in supporting this project, please consider the following:</p>\n<ul>\n<li><a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">Becoming a sponsor on Github</a></li>\n<li><a href=\"https://paypal.me/rstoenescu1\" target=\"__blank\" class=\"doc-link\">One-off donation via PayPal</a></li>\n</ul>\n"
@@ -784,6 +789,11 @@
     }
   ],
   "@quasar/app-webpack": [
+    {
+      "version": "3.12.1",
+      "date": "2023-12-04T10:57:43Z",
+      "body": "<h2>Changes</h2>\n<ul>\n<li>feat(app-webpack): force the use of latest quasar/render-ssr-error</li>\n<li>fix(app-webpack): typo in --skip-pkg option <a href=\"https://github.com/quasarframework/quasar/issues/16604\" target=\"__blank\" class=\"doc-link\">16604</a></li>\n</ul>\n<h2>Donations</h2>\n<p>Quasar Framework is an open-source MIT-licensed project made possible due to the <strong>generous contributions</strong> by <a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">sponsors and backers</a>. If you are interested in supporting this project, please consider the following:</p>\n<ul>\n<li><a href=\"https://github.com/sponsors/rstoenescu\" target=\"__blank\" class=\"doc-link\">Becoming a sponsor on Github</a></li>\n<li><a href=\"https://paypal.me/rstoenescu1\" target=\"__blank\" class=\"doc-link\">One-off donation via PayPal</a></li>\n</ul>\n"
+    },
     {
       "version": "3.12.0",
       "date": "2023-11-10T13:24:30Z",
